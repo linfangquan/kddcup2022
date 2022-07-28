@@ -7,3 +7,5 @@ To reproduce the results:
 3. For inference `sh inference.sh`;
 
 For the reproducibility issue, we have repeated multiple times in the offline scenario, and the variation of evaluation results is strictly controlled under 0.2%.
+
+If you have any questions, please email to fangquanlin@gmail.com
